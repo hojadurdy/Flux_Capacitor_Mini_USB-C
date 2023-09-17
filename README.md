@@ -2,7 +2,7 @@
 ### WHAT IS IT?
 A miniature version of Flux Capacitor from the movie trilogy Back to the Future. Measuring at only 48mm x 38mm (1.89in x 1.5in), it can be easily pocketable . It is constructed with high quality 3D printed frame, sandwiched between stacked Gold Plated PCBs. Featuring 25 LEDs, diffused through bare FR4 material, that animate to create the “fluxxing” effect. It’s 100% decorative, it doesn’t actually let you travel through time. But let's not lose hope. Maybe in the future.
 
-![Exploded View](https://github.com/hojadurdy/Flux_Capacitor_Mini_USB-C/blob/main/Images/FC_Exploded_View.png?raw=true"Exploded View")
+![LED Numbers](/Images/FC_Exploded_View.png)
 
 This tiny Flux Capacitor is controlled by a Microchip ATtiny1616 microcontroller. Thankfully this board has a much lower power requirement than the what it indicates on the back, and skips along, sipping power from the single CR2032/LIR2032 coin cell battery (instead of plutonium or a lightning strike). By using PWM (Pulse Width Modulation) pins for 8 channels of 3 paralleled LEDs, different animation patterns are generated for the fluxxxing effect. In settings mode, users are able change between 8 different types of animation, 8 levels of speed and LED brightness.
 

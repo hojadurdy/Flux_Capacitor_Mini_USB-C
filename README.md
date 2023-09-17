@@ -47,3 +47,5 @@ LEDs start to animate faster with much brighter center beam as shown in the vide
 
 ### WHAT MAKES THIS DEVICE SPECIAL?
 First of all, the gold plating on the PCB makes it look luxurious. You can wear it around your neck with an ID card strap, hang it on your keychain or... you can place it on your car's dashboard and try and see if the time travel is possible while you're driving at 88mph. Time travel at your own RISK! If you stuck in unknown territories of time, try turning on the SOS mode of the Flux Capacitor (Animation 5 or 101 LED combination). Help may or may not arrive. NO GUARANTEES.
+
+<a href="https://www.tindie.com/stores/curiousdesignlabs/?ref=offsite_badges&utm_source=sellers_Hojadurdy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
